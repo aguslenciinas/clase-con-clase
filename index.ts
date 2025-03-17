@@ -75,4 +75,4 @@ edificio.addDepartamentoToPiso(0, departamento1);
 console.log(departamento.getName());
 console.log(piso.getDepartamentos());
 console.log("otra persona realizo este cambio");
-console.log("otro cambio");
+console.log("otro cambio, una persona hizo otro cambio");
